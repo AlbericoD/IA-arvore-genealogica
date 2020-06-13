@@ -26,3 +26,7 @@ pais(X, manoela).
 pais(X, lucas).
 %Quem são os filhos de eliza
 pais(X, eliza).
+
+
+irmao(X,Y):-homem(X), pai(Z,X), pai(Z,Y),X\=Y.
+irmao(X,Y):-homem(X), mae(Z,X), mae(Z,Y),X\=Y. 

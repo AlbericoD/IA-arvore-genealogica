@@ -1,0 +1,12 @@
+
+Now try expressing the following rules:
+
+     M is the mother of X if she is a parent of X and is female 
+     F is the father of X if he is a parent of X and is male 
+     X is a sibling of Y if they both have the same parent. 
+
+Furthermore add rules defining:
+
+     "sister", "brother", 
+     "aunt", "uncle", 
+     "grandparent", "cousin" 
