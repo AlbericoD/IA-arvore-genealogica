@@ -6,3 +6,23 @@ pais(lucas, Y).
 pais(joao, W).
 %Quem são os pais de antonio
 pais(antonio, Z).
+
+%Thiago é pai de lucas?
+pais(thiago, lucas).
+%Lucas é pai de thiago.
+pais(lucas, thiago).
+
+%Quem são os filhos de jose
+pais(X, jose).
+%Quem são os filhos de maria
+pais(X, maria).
+
+%Quem são os filhos de thiago
+pais(X, thiago).
+%Quem são os filhos de manoela
+pais(X, manoela).
+
+%Quem são os filhos de lucas
+pais(X, lucas).
+%Quem são os filhos de eliza
+pais(X, eliza).
