@@ -31,6 +31,6 @@ pais(joao, thiago).
 pais(joao, manoela).
 
 pais(antonio, lucas).
-pais(eliza, lucas).
+pais(antonio, eliza).
 
 % REGRAS
